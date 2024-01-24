@@ -1,8 +1,8 @@
-#Rock Paper Scissors Image Recognition Project
+# Rock Paper Scissors Image Recognition Project
 
 github link: https://github.com/Polyakri/projects/edit/main/MachineLearningProjects/RockPaperScissors_Game
 
-Overview
+### Overview
 
 This GitHub project focuses on creating a robust image recognition model for the classic game of Rock, Paper, Scissors. The objective is to develop a model that can accurately recognize and respond with the winning hand gesture based on input images.
 Dataset
@@ -33,16 +33,18 @@ Steps:
         Introduce noise to the selected image.
         Utilize the trained model to predict the image and determine the winning hand gesture.
 
-Results
+### Results
 
 After extensive experimentation with around 3000 models, the best-performing model achieved an accuracy of 99.5%. The evaluation results are provided in the CSV files within the project.
 
 
-Author
+## Author
 
-    Polydoros Akritidis
+Polydoros Akritidis
+
+MSc Student in Artificial Intelligence
+
+MSc Diploma in Electrical and Computer Engineering
 
 
-Feel free to reach out to the author for any questions or collaborations.
-
-Happy Coding!
+Feel free to reach out to me for any questions or information.
