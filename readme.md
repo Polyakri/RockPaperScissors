@@ -1,4 +1,4 @@
-Rock Paper Scissors Image Recognition Project
+#Rock Paper Scissors Image Recognition Project
 
 github link: https://github.com/Polyakri/projects/edit/main/MachineLearningProjects/RockPaperScissors_Game
 
